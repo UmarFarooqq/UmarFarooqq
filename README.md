@@ -17,6 +17,15 @@
 
 ---
 
+### 📊 Statistical Software & Languages
+![SPSS](https://img.shields.io/badge/SPSS-ED1C24?style=for-the-badge&logo=spss&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-0072C6?style=for-the-badge&logo=scipy&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E34F26?style=for-the-badge&logo=mathworks&logoColor=white)
+[![R Programming](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]([Your RPubs URL])
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)]([Your RPubs URL])
+
+---
+
 ### 🤝 Let's Connect!
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
 [![WhatsApp](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_PHONE_NUMBER)
